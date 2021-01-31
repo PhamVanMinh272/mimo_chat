@@ -1,0 +1,5 @@
+Flask==1.1.2
+Flask-RESTful==0.3.8
+pymysql-1.0.2
+SQLAlchemy==1.3.22
+Flask-Bcrypt==0.7.1
