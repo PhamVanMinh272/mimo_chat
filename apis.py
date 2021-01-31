@@ -33,7 +33,7 @@ class Register(Resource):
         return {
                     'message': 'Successfully',
                     'data': args
-               }, 400
+               }, 200
 
 
 
