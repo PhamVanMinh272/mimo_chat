@@ -56,3 +56,5 @@ class RegisterForm extends Component {
         )
     }
 }
+
+export default RegisterForm;
