@@ -15,7 +15,6 @@ class RegisterForm extends Component {
     }
 
     register(e) {
-        console.log('hahsh');
         e.preventDefault();
         console.log(e.target);
         const options = {
