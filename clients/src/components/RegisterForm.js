@@ -16,7 +16,7 @@ class RegisterForm extends Component {
 
     register(e) {
         e.preventDefault();
-        console.log(e.target);
+        
         const options = {
             method: 'POST',
             headers: {
